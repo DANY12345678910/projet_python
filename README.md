@@ -45,6 +45,3 @@ License
 
 
 For questions or suggestions, please contact [daniel.devy@estaca.eu].
-
-
-You can copy and paste this into a `README.md` file in your GitHub repository. Let me know 

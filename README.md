@@ -1,3 +1,4 @@
+# Bienvenue au projet Python Sur Github de Daniel Devy Théo Schektman Sophie Jolivalt!
 # Calculator Module
 
 This project provides a Python-based library for performing basic mathematical operations, number theory computations, and common algorithms. It includes a comprehensive suite of unit tests for code reliability.
@@ -39,7 +40,7 @@ Run the test suite using pytest:
 pytest
 
 Contributing
-Daniel Devy Théo Schektman
+Daniel Devy Théo Schektman Sophie Jolivalt
 
 License
 

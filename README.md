@@ -27,7 +27,7 @@ Usage
 
 Import the module and use its functions in your Python scripts:
 
-from src.calculator import add, is_prime
+from src.danproject.dummy import add, is_prime
 
 # Example usage
 print(add(5, 7))  # Output: 12

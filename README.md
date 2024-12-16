@@ -16,7 +16,7 @@ src/ calculator.py # Core library tests/ test_calculator.py # Unit tests
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/calculator-module.git
+   git clone git@github.com:DANY12345678910/projet_python.git
 Navigate to the project folder:
 
 cd calculator-module
